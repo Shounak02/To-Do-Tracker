@@ -21,7 +21,7 @@ To set up the project locally:
 
 bash
 Copy code
-git clone https://github.com/yourusername/to-do-tracker.git
+git clone https://github.com/shounak02/to-do-tracker.git
 Navigate to the Project Directory:
 
 bash
